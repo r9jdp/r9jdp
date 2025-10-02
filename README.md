@@ -8,20 +8,6 @@
 <a href="https://linkedin.com/in/rajdeep-pandey-bb8a682ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajdeep-pandey-bb8a682ab/" height="30" width="40" /></a>
 </p>
 
----
-
-### 💼 Current Roles
-
-- 🧠 **AI Intern at DCB Bank** (May 2025 – Present)  
-  Developing fraud detection engines using DeepFace, YOLOv8, CLIP & FAISS to streamline tractor and identity verification.
-
-- 💻 **Tech Team Member at CSI-KJSCE** (Jul 2024 – Present)  
-  Built large-scale event platforms for 2000+ users, including Union Bank of India’s national hackathon & Eventio system.
-
-- 📈 **AI Research Intern, KJSCE** (Dec 2024 – Apr 2024)  
-  Created a hackathon recommendation system using BERT and cosine similarity on a 5000+ event dataset.
-
----
 
 ### 🛠️ Tech Stack
 
