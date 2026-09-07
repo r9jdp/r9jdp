@@ -2,13 +2,11 @@
 
 I founded Milnr AI Labs and build AI products around persistent memory and agents that work together.
 
-<br>
-
 <h3><samp>SELECTED WORK</samp></h3>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <br>
 <sub>MILNR AI LABS</sub>
 <h3><a href="https://www.fermeon.xyz/">Fermeon</a></h3>
@@ -17,7 +15,9 @@ I founded Milnr AI Labs and build AI products around persistent memory and agent
 <p><b>#12 on Product Hunt</b></p>
 <br>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <br>
 <sub>FOUNDER</sub>
 <h3><a href="https://www.trydonna.net/">trydonna</a></h3>
