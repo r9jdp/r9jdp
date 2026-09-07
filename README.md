@@ -25,7 +25,8 @@ Founder. Built a hiring system where AI agents represent candidates and recruite
 
 - **Top 6, OpenAI Codex Hackathon, Bengaluru.** Selected among 100 from 4,500 applicants. Built a VS Code system for parallel Codex agents, isolated git worktrees, and real-time coordination in under 6 hours.
 - **Winner, Paytm AI Hackathon.**
-- **Silver, Unstoppable Hackathon** (open-source track); **1st runner-up, Fynd Hacktimus**.
+- **Silver Medalist, [Unstoppable Hackathon](https://docs.stability.nexus/about-us/unstoppable-hackathon)** — Open-Source Contributions Track. Co-organized by [AOSSIE](https://github.com/aossie-org) (Australian Open Source Software Innovation and Education).
+- **1st runner-up, Fynd Hacktimus**.
 
 Previously at DCB Bank, built a fraud detection system that prevented **$1M+ in quarterly losses** and reduced manual verification by **95%**.
 
