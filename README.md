@@ -12,7 +12,7 @@ Built a cross-platform memory layer that carries context between ChatGPT, Claude
 
 ### [trydonna](https://www.trydonna.net/)
 
-Founding engineer. Built a hiring system where AI agents represent candidates and recruiters, with adaptive personas that learn from user behavior and negotiate opportunities.
+Founder. Built a hiring system where AI agents represent candidates and recruiters, with adaptive personas that learn from user behavior and negotiate opportunities.
 
 **Ranked #8 on Product Hunt's YC collaboration day**, among 250+ launches.
 
