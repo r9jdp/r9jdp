@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-header-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/profile-header-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark-desktop.svg">
-  <img src="assets/profile-header-light-desktop.svg" width="100%" alt="Rajdeep Pandey. I founded Milnr AI Labs and build AI products around persistent memory and agents that work together.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-header-dark-mobile.svg?v=2">
+  <source media="(max-width: 600px)" srcset="assets/profile-header-light-mobile.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark-desktop.svg?v=2">
+  <img src="assets/profile-header-light-desktop.svg?v=2" width="520" alt="Rajdeep Pandey. I founded Milnr AI Labs and build AI products around persistent memory and agents that work together.">
 </picture>
 
 ## Selected work
